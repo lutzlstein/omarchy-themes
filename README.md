@@ -2,24 +2,24 @@
 
 Custom themes for [Omarchy](https://omarchy.org), built with Aether.
 
-## [Autumn](https://github.com/lutzlstein/omarchy-autumn-theme)
+## [Maine Autumn](https://github.com/lutzlstein/omarchy-maine-autumn-theme)
 
-![Autumn](https://raw.githubusercontent.com/lutzlstein/omarchy-autumn-theme/main/preview.jpg)
-
-```
-omarchy-theme-install https://github.com/lutzlstein/omarchy-autumn-theme
-```
+![Maine Autumn](https://raw.githubusercontent.com/lutzlstein/omarchy-maine-autumn-theme/main/preview.jpg)
 
 ```
-aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-autumn-theme/main/blueprint.json --auto-apply
+omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-autumn-theme
 ```
 
-## [Autumn Dark](https://github.com/lutzlstein/omarchy-autumn-dark-theme)
+```
+aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-maine-autumn-theme/main/blueprint.json --auto-apply
+```
 
-![Autumn Dark](https://raw.githubusercontent.com/lutzlstein/omarchy-autumn-dark-theme/main/preview.jpg)
+## [Maine Autumn Dark](https://github.com/lutzlstein/omarchy-maine-autumn-dark-theme)
+
+![Maine Autumn Dark](https://raw.githubusercontent.com/lutzlstein/omarchy-maine-autumn-dark-theme/main/preview.jpg)
 
 ```
-omarchy-theme-install https://github.com/lutzlstein/omarchy-autumn-dark-theme
+omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-autumn-dark-theme
 ```
 
 _No Aether blueprint for this one yet._
