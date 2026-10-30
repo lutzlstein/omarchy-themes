@@ -48,3 +48,7 @@ omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-expressionist-
 aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-maine-expressionist-theme/main/blueprint.json --auto-apply
 ```
 
+
+## Backgrounds
+
+All backgrounds are AI-generated with ChatGPT by Cory Blische and released under the same MIT license as the themes.
