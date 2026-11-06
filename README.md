@@ -38,9 +38,9 @@ omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-autumn-sunset-
 aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-maine-autumn-sunset-theme/main/blueprint.json --auto-apply
 ```
 
-## [Maine Expressionist](https://github.com/lutzlstein/omarchy-maine-expressionist-theme)
+## [Maine Summer Dark](https://github.com/lutzlstein/omarchy-maine-expressionist-theme)
 
-![Maine Expressionist](https://raw.githubusercontent.com/lutzlstein/omarchy-maine-expressionist-theme/main/preview.jpg)
+![Maine Summer Dark](https://raw.githubusercontent.com/lutzlstein/omarchy-maine-expressionist-theme/main/preview.jpg)
 
 ```
 omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-expressionist-theme
